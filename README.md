@@ -8,7 +8,9 @@
 2.  **Обработка и Анализ DICOM-Изображений (`здравие2.ipynb`)**
 
 здравие1: https://colab.research.google.com/drive/112iuSa2hWBcg58Ex-QHQyk0PmAIxWMI2
+
 здравие2: https://colab.research.google.com/drive/1lpcCzpvuDCVs4Vhop0p-tZobAIF9OUn8
+
 ---
 
 ### 1. Анализ Данных о Сердечных Заболеваниях (`здравие1.ipynb`)
